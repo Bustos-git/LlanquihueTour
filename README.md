@@ -1,5 +1,5 @@
 ![Duoc UC](https://www.duoc.cl/wp-content/uploads/2022/09/logo-0.png)
-# 🧠 Evaluación Final Transversal – Desarrollo Orientado a Objetos I
+# 🧠 Evaluación Sumativa 1 – Desarrollo Orientado a Objetos I
 
 ## 👤 Autor del proyecto
 - **Nombre completo:** Antonia Paz Bustos Loyola
